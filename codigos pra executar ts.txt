@@ -1,0 +1,16 @@
+yarn init -y(pacote json)
+yarn add express(node modules)
+yarn add @types/express -D (biblioteca express)
+yarn add typescript -D (instalando a forma de compilar)
+yarn tsc --init (iniciar na nossa aplicação)
+yarn add ts-node-dev -D
+yarn dev
+
+
+
+typeorm(basicamente pega o objeto e monta a tabela)
+data base
+
+yarn add typeorm reflect -metadata
+yarn typeorm
+yarn typeorm migration: -n createUser

@@ -1,0 +1,47 @@
+ 
+ -processo
+
+-Aplicação do 0
+	
+ 
+	*projeto - calculo de nps
+
+	cadastro de usuario - cadastro de perguntas 
+
+
+
+api de envio de email  -  ethereal email
+
+- pegar e calcular o nps 
+-------------------------------------------------------------------------------------------------------------------
+Node - plataforma open source que permite que execute o java Script
+	-Event loop pega uma requisição e manda para uma thread disponivel
+	
+
+-------------------------------------------------------------------------------------------------------------------
+- inicio do codigo 
+
+	-api = conjunto de regras que quando define dentro da aplicação, consegue dizer que a aplicação e api
+	 para ter uma api precisa ter a interação do cliente e do servidor
+-------------------------------------------------------------------------------------------------------------------
+- regra -1) precisa ter um cliente(HTML, CSS) e um servidor(backend , acesso a bd, autenticação)
+	   
+processo 1  = 
+ -cliente faz uma requisição para o servidor (quero buscar tal produto(rota = /produtos/mouse) 
+ -retorna a informação(retornar o JSON))
+
+npm init --yes
+npm i
+----------------------------------------------------------------------------------------------------------------------
+
+get - buscar
+post - salvar
+put - alterar
+delete - deletar
+patch - alterar dado especifico
+-------------------------------------------------------------------------------------------------------------------------
+
+DIA 2 - BANCO DE DADOS
+
+Utilização de drive nativo de banco de DADOS
+ORM PEGA A CLASSE E MAPEIA PARA UMA TABELA ESPECIFICA

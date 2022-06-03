@@ -1,0 +1,5 @@
+1) git init (inicia repositorio)
+2) git remote add "nome" (adicionar as dependencias)
+3) git add . (adicionar os arquivos)
+4) git commit -m  ""  (adicionar um commit pra modifica;'ao)
+5) git push (sobe tudo pro repositorio)

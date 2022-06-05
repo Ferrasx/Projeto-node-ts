@@ -3,3 +3,10 @@
 3) git add . (adicionar os arquivos)
 4) git commit -m  ""  (adicionar um commit pra modifica;'ao)
 5) git push (sobe tudo pro repositorio)
+
+
+
+git remote set-url origin http://git.corenmg.gov.br/gabriel.euzito/estudos_gabriel.git (set url)
+git push --set-upstream origin dev
+git -c user.name='gabriel.euzito' -c user.email='gabriel.euzito@corenmg.gov.br' commit -m "Primeiro commit"
+git status 

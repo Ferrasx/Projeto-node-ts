@@ -45,3 +45,23 @@ DIA 2 - BANCO DE DADOS
 
 Utilização de drive nativo de banco de DADOS
 ORM PEGA A CLASSE E MAPEIA PARA UMA TABELA ESPECIFICA
+------------------------------------------------------------------------------------------------
+testes
+*	testes unitarios - uma funcionalidade da aplicação
+1)tdd codigo orientado a teste
+
+* começa pela criação de usuario
+* apartir de teste desenvolve a aplicação
+------------------------------------------------------------
+2)testes de integração
+*testa a funcionalidade completa da aplicação
+
+request - routes - controller - repositories 
+response repositories - controller -routes
+
+-------------------------------------------------------------
+3) ponta a ponta
+ele vai testar toda a ação do usuario em uma aplicação (aplicação fron-end e um exemplo)
+execução de teste = yarn test
+
+read supertest and typeorm

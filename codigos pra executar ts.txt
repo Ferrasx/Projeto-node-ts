@@ -13,4 +13,5 @@ data base
 
 yarn add typeorm reflect -metadata
 yarn typeorm
-yarn typeorm migration: -n createUser
+yarn typeorm migration: create -n CreateUser
+yarn typeorm migration: create -n CreateSurveys
